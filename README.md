@@ -1,10 +1,37 @@
-# profile-chrome-extension
+[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/header.jpg)](https://ankushsinghgandhi.github.io)
+<p align="center">
+  <a href="https://ankushsinghgandhi.github.io">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="http://twitter.com/ankushsgandhi">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/ankush-singh-gandhi-2487771aa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/@ankushsinghgandhi">
+    <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13790266/ankush-singh">
+    <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/ankushsinghgandhi/">
+    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
+  </a>
+    <a href="https://www.hackerrank.com/ankushsgandhi">
+    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
+  </a>
+    <a href="https://www.hackerearth.com/@bhanusinghank">
+    <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
+  </a>
+</p>
+
+# profile-chrome-extension (v2.0.0)
 Simple Chrome Extension for a quick launcher to your all social media profiles at one click.
 
 ## Demo :purple_heart:
 
-![Screenshot from 2021-10-08 17-29-52](https://user-images.githubusercontent.com/55637484/136553666-d932427f-860c-44ed-9c94-ae190f21fee3.png)
-
+![Screenshot from 2021-10-10 10-21-55](https://user-images.githubusercontent.com/55637484/136682853-0f87ae50-88a1-47e9-b95e-95dff4b64165.png)
 
 ## Downloading and Deploying the Extension :eyes:
 
@@ -30,5 +57,13 @@ Once you have the extension code:
 
 ![Screenshot from 2021-10-08 17-32-05](https://user-images.githubusercontent.com/55637484/136553728-082dfb4f-ceaf-42be-9dfa-4375708c4188.png)
 
+## Customize your own Extension :smiley:
+
+* Click on __Edit__ button
+* Enter the corresponding social links
+* Click on __Save__ button
+
+
 
 Your extension is ready to work! Enjoy:thumbsup:
+[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/footer.jpg)](https://www.buymeacoffee.com/ankushsingh)
