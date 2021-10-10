@@ -63,7 +63,6 @@ Once you have the extension code:
 * Enter the corresponding social links
 * Click on __Save__ button
 
+![Screenshot from 2021-10-10 10-20-51](https://user-images.githubusercontent.com/55637484/136683070-67aeecaa-6157-4329-8f24-c82a80b80a94.png)
 
-
-Your extension is ready to work! Enjoy:thumbsup:
 [![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/footer.jpg)](https://www.buymeacoffee.com/ankushsingh)
