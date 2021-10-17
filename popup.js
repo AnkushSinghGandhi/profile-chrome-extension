@@ -20,7 +20,7 @@ chrome.storage.sync.get(array,function(links){
     if(!chrome.runtime.error){
         console.log(links);
         if(links.name)
-            name_text.innerHTML=links.name+"'s ";
+            name_text.innerHTML=escapeHtml(links.name)+"'s ";
         
         if(links.website)
             website_link.href=links.website;
@@ -58,3 +58,6 @@ chrome.storage.sync.get(array,function(links){
             });
     }
 });
+const escapeHtml = (input) => { 
+    return input.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;').replace(/>/g, "&gt;").replace(/'/g, "&#039;");
+}
